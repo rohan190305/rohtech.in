@@ -12,7 +12,7 @@ const TeamSection = () => {
       photo: '/RP.PNG',
       social: {
         linkedin: '#',
-        instagram: '#',
+        instagram: '#https://www.instagram.com/rohanpawar_2005?igsh=MWJucGFtZDc2bWVtYg==',
         github: '#'
       },
       color: 'from-purple-500 to-pink-500'
@@ -50,61 +50,7 @@ const TeamSection = () => {
       },
       color: 'from-green-500 to-emerald-500'
     },
-    {
-      name: 'Chinmay Gawade',
-      role: 'Digital Marketing Specialist',
-      photo: '/images/chinmay.jpg',
-      social: {
-        linkedin: '#',
-        instagram: '#',
-        github: '#'
-      },
-      color: 'from-orange-500 to-red-500'
-    },
-    {
-      name: 'Janvhi Thakur',
-      role: 'Video Editor',
-      photo: '/images/janvhi.jpg',
-      social: {
-        linkedin: '#',
-        instagram: '#',
-        github: '#'
-      },
-      color: 'from-pink-500 to-rose-500'
-    },
-    {
-      name: 'Isha Bhoite',
-      role: 'Frontend Developer',
-      photo: '/images/isha.jpg',
-      social: {
-        linkedin: '#',
-        instagram: '#',
-        github: '#'
-      },
-      color: 'from-indigo-500 to-purple-500'
-    },
-    {
-      name: 'Rutik Kadam',
-      role: 'Co-Founder & Developer',
-      photo: '/images/rutik2.jpg',
-      social: {
-        linkedin: '#',
-        instagram: '#',
-        github: '#'
-      },
-      color: 'from-teal-500 to-blue-500'
-    },
-    {
-      name: 'Shubham Prajapati',
-      role: 'Frontend Developer',
-      photo: '/images/shubham.jpg',
-      social: {
-        linkedin: '#',
-        instagram: '#',
-        github: '#'
-      },
-      color: 'from-yellow-500 to-orange-500'
-    }
+    
   ];
 
   const [ref, inView] = useInView({

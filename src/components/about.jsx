@@ -188,7 +188,7 @@ const AboutSection = () => {
                     whileHover={{ scale: 1.1, rotate: 5 }}
                   >
                     <Image 
-                      src="/RP.png" 
+                      src="/RP.jpg" 
                       alt="Rohan Pawar" 
                       width={96} 
                       height={96} 

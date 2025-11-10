@@ -9,7 +9,7 @@ const TeamSection = () => {
     {
       name: 'Rohan Pawar',
       role: 'Founder & Full Stack Developer',
-      photo: '/RP.PNG',
+      photo: '/RP.jpg',
       social: {
         linkedin: '#',
         instagram: '#https://www.instagram.com/rohanpawar_2005?igsh=MWJucGFtZDc2bWVtYg==',
